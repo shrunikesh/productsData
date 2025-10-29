@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 16 pro",
+    "price": 1200.00,
+    "category": "Phones",
+    "rating": 4.9,
+    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\iphone16pro.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Z Fold7",
+    "price": 1999.00,
+    "category": "Phones",
+    "rating": 4.9,
+    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\Samsung ZFold7.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Dell inspiron 15",
+    "price": 1199.00,
+    "category": "Laptops",
+    "rating": 4.8,
+    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\DellInspiron15.jpg"
+  },
+   {
+    "id": 3,
+    "name": "MacbookMacBook Air 13",
+    "price": 999.00,
+    "category": "Laptops",
+    "rating": 4.8,
+    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\macbook.jpg"
+  }
+]
