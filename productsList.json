@@ -5,7 +5,7 @@
     "price": 1200.00,
     "category": "Phones",
     "rating": 4.9,
-    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\iphone16pro.jpg"
+    "image": "https://i5.walmartimages.com/seo/Verizon-iPhone-16-Pro-256GB-Desert-Titanium-Apple-Intelligence_3cdf62cd-d020-43c4-b45c-a4b04952ec8a.1caa3b61efa28c517bd11bfec21b07f8.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "price": 1999.00,
     "category": "Phones",
     "rating": 4.9,
-    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\Samsung ZFold7.jpg"
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.boostmobile.com%2Fshop%2Fsamsung-galaxy-z-fold7.html&psig=AOvVaw1G0IIP21knrud3aoA_wi1i&ust=1762144888702000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCPCv_cTV0pADFQAAAAAdAAAAABAE"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "price": 1199.00,
     "category": "Laptops",
     "rating": 4.8,
-    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\DellInspiron15.jpg"
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dell.com%2Fsupport%2Fproduct-details%2Fen-us%2Fproduct%2Finspiron-15-3515-laptop%2Fdrivers&psig=AOvVaw1tSr74_UrXdtBzXOURrgmB&ust=1762145506523000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLC5mt3V0pADFQAAAAAdAAAAABAE"
   },
    {
     "id": 3,
@@ -29,6 +29,6 @@
     "price": 999.00,
     "category": "Laptops",
     "rating": 4.8,
-    "image": "C:\\Users\\daras\\Desktop\\WebDatabase\\Assignments\\inclassJson\\macbook.jpg"
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air&psig=AOvVaw3ArfrJ5DNR9hAF5wRx6PXz&ust=1762145545281000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMDJ0u3V0pADFQAAAAAdAAAAABAE"
   }
 ]
